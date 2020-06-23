@@ -1,8 +1,10 @@
+// Hello World
+
 #include <iostream>
 
 using namespace std;
 
-int main(){
-    cout << "¾È³ç?" << endl;
-    return 0;
+int main() {
+    cout << "Hello World" << endl;
+    return 1;
 }
